@@ -62,7 +62,7 @@ const Portfolio = () => {
               data-category={project.category}
               key={project.id}
             >
-              <a href="#">
+              <a href={project.link} target="_blank">
                 <figure className="project-img">
                   <div className="project-item-icon-box">
                     <FaRegEye />

@@ -3,55 +3,64 @@
       "id": 1,
       "title": "Finance",
       "category": "Web development",
-      "image": "images/project-1.jpg"
+      "image": "images/project-1.jpg",
+      "link": "https://comitedenobu.es/"
     },
     {
       "id": 2,
       "title": "Orizon",
       "category": "Web development",
-      "image": "images/project-2.png"
+      "image": "images/project-2.png",
+      "link": "https://3rpallets.com/"
     },
     {
       "id": 3,
-      "title": "Fundo",
+      "title": "School",
       "category": "Web design",
-      "image": "images/project-3.jpg"
+      "image": "images/project-3.jpg",
+      "link": "https://kidzee.xyz/"
     },
     {
       "id": 4,
       "title": "Brawlhalla",
       "category": "Applications",
-      "image": "images/project-3.jpg"
+      "image": "images/project-3.jpg",
+      "link": "https://kidzee.xyz/"
     },
     {
       "id": 5,
-      "title": "DSM.",
+      "title": "Hotel Booking",
       "category": "Web design",
-      "image": "images/project-5.png"
+      "image": "images/project-5.png",
+      "link": "https://queen.happybrands.live/"
     },
     {
       "id": 6,
       "title": "MetaSpark",
       "category": "Web design",
-      "image": "images/project-6.png"
+      "image": "images/project-6.png",
+      "link": "https://immigration.ojeleye.com/"
     },
     {
       "id": 7,
-      "title": "Summary",
+      "title": "E-commerce",
       "category": "Web development",
-      "image": "images/project-7.png"
+      "image": "images/project-7.png",
+      "link": "https://meallday.com/"
     },
     {
       "id": 8,
       "title": "Task Manager",
       "category": "Applications",
-      "image": "images/project-8.jpg"
+      "image": "images/project-8.jpg",
+      "link": "https://kidzee.xyz/"
     },
     {
       "id": 9,
       "title": "Arrival",
       "category": "Web development",
-      "image": "images/project-9.png"
+      "image": "images/project-9.png",
+      "link": "https://kidzee.xyz/"
     }
   ]
   

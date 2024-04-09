@@ -40,8 +40,8 @@ const Aside = () => {
               <div className="contact-info">
                 <p className="contact-title">Email</p>
 
-                <a href="mailto:mthdheerajkumar@gmail.com" className="contact-link">
-                  mthdheerajkumar@gmail.com
+                <a href="#" className="contact-link">
+                  dheeraj4330@gmail.com
                 </a>
               </div>
             </li>

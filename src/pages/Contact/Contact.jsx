@@ -8,6 +8,8 @@ const Contact = () => {
         <h2 className="h2 article-title">Contact</h2>
       </header>
 
+      
+
       <section className="mapbox" data-mapbox>
         <figure>
           <iframe

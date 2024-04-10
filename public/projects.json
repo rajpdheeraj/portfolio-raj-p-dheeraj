@@ -1,60 +1,45 @@
 [
     {
-      "id": 1,
+      "id": 6,
       "title": "School",
       "category": "Web development",
       "image": "images/kidzee.png",
       "link": "https://kidzee.xyz/"
     },
     {
-      "id": 2,
-      "title": "Orizon",
-      "category": "Web development",
-      "image": "images/project-2.png",
-      "link": "https://3rpallets.com/"
-    },
-    {
-      "id": 3,
-      "title": "School",
-      "category": "Web design",
-      "image": "images/project-3.jpg",
-      "link": "https://comitedenobu.es/"
-    },
-    
-    {
       "id": 5,
-      "title": "Hotel Booking",
-      "category": "Web design",
-      "image": "images/project-5.png",
+      "title": "Lodge",
+      "category": "Web development",
+      "image": "images/queen.png",
       "link": "https://queen.happybrands.live/"
     },
     {
-      "id": 6,
-      "title": "MetaSpark",
+      "id": 4,
+      "title": "Immigration",
       "category": "Web design",
-      "image": "images/project-6.png",
+      "image": "images/immigration.png",
       "link": "https://immigration.ojeleye.com/"
     },
     {
-      "id": 7,
-      "title": "E-commerce",
+      "id": 3,
+      "title": "Pallets",
       "category": "Web development",
-      "image": "images/project-7.png",
-      "link": "https://meallday.com/"
+      "image": "images/pallet.png",
+      "link": "https://3rpallets.com/"
     },
     {
-      "id": 8,
+      "id": 2,
+      "title": "Works council",
+      "category": "Web design",
+      "image": "images/ugto.png",
+      "link": "https://comitedenobu.es/"
+    },
+    {
+      "id": 1,
       "title": "Task Manager",
       "category": "Applications",
       "image": "images/project-8.jpg",
-      "link": "https://kidzee.xyz/"
-    },
-    {
-      "id": 9,
-      "title": "Arrival",
-      "category": "Web development",
-      "image": "images/project-9.png",
-      "link": "https://astrosagekundali.com/"
+      "link": "#"
     }
   ]
   

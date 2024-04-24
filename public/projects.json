@@ -1,37 +1,37 @@
 [
     {
       "id": 6,
-      "title": "School",
+      "title": "School website",
       "category": "Web development",
-      "image": "images/kidzee.png",
+      "image": "images/kidzee.x.png",
       "link": "https://kidzee.xyz/"
     },
     {
       "id": 5,
-      "title": "Lodge",
+      "title": "Lodge Website",
       "category": "Web development",
-      "image": "images/queen.png",
+      "image": "images/queen.happ.png",
       "link": "https://queen.happybrands.live/"
     },
     {
       "id": 4,
-      "title": "Immigration",
+      "title": "Immigration Website",
       "category": "Web design",
-      "image": "images/immigration.png",
+      "image": "images/immigrat.png",
       "link": "https://immigration.ojeleye.com/"
     },
     {
       "id": 3,
-      "title": "Pallets",
+      "title": "Pallets Website",
       "category": "Web development",
-      "image": "images/pallet.png",
+      "image": "images/3rpallet.png",
       "link": "https://3rpallets.com/"
     },
     {
       "id": 2,
-      "title": "Works council",
+      "title": "Works council Website",
       "category": "Web design",
-      "image": "images/ugto.png",
+      "image": "images/comite.png",
       "link": "https://comitedenobu.es/"
     },
     {

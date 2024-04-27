@@ -1,4 +1,12 @@
 [
+
+  {
+    "id": 8,
+    "title": "Video Editing & Social Media Management Services Website",
+    "category": "Web development",
+    "image": "./images/brightreels.png",
+    "link": "https://brightreels.in/"
+  },
   {
     "id": 7,
     "title": "Portfolio Landing Page",

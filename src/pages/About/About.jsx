@@ -47,8 +47,7 @@ const About = () => {
 
       <section className="about-text">
         <p>
-          Hello! I’m RAJ P DHEERAJ. Web Developer with over 3 years of
-          experience specializing in Full Stack development. Experienced with all
+          Hello! I’m RAJ P DHEERAJ. Web Developer with specializing in Full Stack development. Experienced with all
           stages of the development cycle for dynamic web projects.Having an
           in-depth knowledge including advanced WordPress, HTML5, CSS, CSS3,
           JSON, XML, JavaScript, React JS. Strong background in

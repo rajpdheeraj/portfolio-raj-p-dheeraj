@@ -1,4 +1,18 @@
 [
+  {
+    "id": 10,
+    "title": "Video Editing & Social Media Management Services Website",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://onpointstaking.com/"
+  },
+  {
+    "id": 9,
+    "title": "Video Editing & Social Media Management Services Website",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://cyrus-foundation.org/"
+  },
 
   {
     "id": 8,

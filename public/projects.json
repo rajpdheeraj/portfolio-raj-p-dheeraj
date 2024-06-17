@@ -1,5 +1,26 @@
 [
   {
+    "id": 18,
+    "title": "www.loodgieterprofs.nl",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://www.loodgieterprofs.nl/"
+  },
+  {
+    "id": 17,
+    "title": "rex-gaskartuschen.de",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://rex-gaskartuschen.de/"
+  },
+  {
+    "id": 16,
+    "title": "aandaagro.com",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://aandaagro.com/"
+  },
+  {
     "id": 15,
     "title": "amtceurope.com",
     "category": "Web development",
@@ -22,14 +43,14 @@
   },
   {
     "id": 12,
-    "title": "staking",
+    "title": "subangjayaproperties.com",
     "category": "Web development",
     "image": "./images/project-8.jpg",
     "link": "https://subangjayaproperties.com/ "
   },
   {
     "id": 11,
-    "title": "staking",
+    "title": "www.dura-t.com",
     "category": "Web development",
     "image": "./images/project-8.jpg",
     "link": "https://www.dura-t.com/"

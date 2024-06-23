@@ -1,5 +1,12 @@
 [
   {
+    "id": 19,
+    "title": "hapiwo.health",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://hapiwo.health/"
+  },
+  {
     "id": 18,
     "title": "www.loodgieterprofs.nl",
     "category": "Web development",

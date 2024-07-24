@@ -1,5 +1,47 @@
 [
   {
+    "id": 27,
+    "title": "ultimate-jackpot.com",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "http://ultimate-jackpot.com/"
+  },
+  {
+    "id": 26,
+    "title": "ultimate-casinos.org",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "http://ultimate-casinos.org/"
+  },
+  {
+    "id": 25,
+    "title": "best10casinos.org",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://best10casinos.org/"
+  },
+  {
+    "id": 24,
+    "title": "www.anandamarga.org.au",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://www.anandamarga.org.au/"
+  },
+  {
+    "id": 23,
+    "title": "healthexpress.care",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://healthexpress.care/"
+  },
+  {
+    "id": 22,
+    "title": "alcoholichealth.life",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://alcoholichealth.life/"
+  },
+  {
     "id": 21,
     "title": "Sweet Parasol Ice Cream",
     "category": "Web development",

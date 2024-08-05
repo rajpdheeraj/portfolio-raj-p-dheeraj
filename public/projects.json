@@ -1,5 +1,26 @@
 [
   {
+    "id": 30,
+    "title": "qagile.co.in",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://qagile.co.in/"
+  },
+  {
+    "id": 29,
+    "title": "bridge-point-solutions.com",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://bridge-point-solutions.com/"
+  },
+  {
+    "id": 28,
+    "title": "findtools.in",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://findtools.in/"
+  },
+  {
     "id": 27,
     "title": "ultimate-jackpot.com",
     "category": "Web development",

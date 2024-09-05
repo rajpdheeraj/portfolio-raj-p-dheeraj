@@ -1,5 +1,12 @@
 [
   {
+    "id": 31,
+    "title": "primedevz.com",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://primedevz.com/"
+  },
+  {
     "id": 30,
     "title": "qagile.co.in",
     "category": "Web development",

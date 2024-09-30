@@ -1,5 +1,19 @@
 [
   {
+    "id": 33,
+    "title": "johnfrancis.ca",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://johnfrancis.ca/"
+  },
+  {
+    "id": 32,
+    "title": "urbanmallonline.com",
+    "category": "Web development",
+    "image": "./images/project-8.jpg",
+    "link": "https://www.urbanmallonline.com/"
+  },
+  {
     "id": 31,
     "title": "primedevz.com",
     "category": "Web development",
